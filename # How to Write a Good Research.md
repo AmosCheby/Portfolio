@@ -1,5 +1,6 @@
 # How to Write a Good Research
 ![clipart](https://raw.githubusercontent.com/AmosCheby/User-Guide/main/Screenshot%202022-06-05%20153147.png)
+
 Fundamentally, writing a research paper is a process that is unique to different people. Although some argue that research writing is a linear process, it is actually highly recursive, messy, and repetitive. Therefore, anything indicated in this guide should be followed flexibly.
 ## Title/Topic
 It may be silly to have the topic as an important element, but it really is important. The research topic should be as precise as possible and should primarily express the main idea of the paper. 
